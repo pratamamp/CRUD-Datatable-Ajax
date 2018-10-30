@@ -29,7 +29,7 @@ import the sql dump database to your local database server
 
 * [Codeigniter 3.1.9](https://www.codeigniter.com/)
 * [Bootstrap 3](https://getbootstrap.com/)
-* [Ajax Datatable] (https://datatables.net/)
+* [Ajax Datatable](https://datatables.net/)
 
 
 ## Authors
