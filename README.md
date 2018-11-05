@@ -1,9 +1,6 @@
 # List of Books
 
-Problem : We need a simple to create read update and delete book data
-Solution : Create simple CRUD system
-
-
+Simple CRUD system with Codeigniter and Datatable plugin inside
 
 ## Getting Started
 
